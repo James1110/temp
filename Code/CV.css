@@ -1,0 +1,378 @@
+body{
+  margin-top: 0px;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+section{
+  height: 1200px;
+  margin: 0px;
+  font-family: Helvetica;
+
+}
+#Col1,#Col5{
+  background-color: #CCCCCc;
+}
+
+#Col2,#Col4{
+  background-color: #3B393A;
+}
+
+ul{
+list-style-type: none;
+font-family: Helvetica;
+font-size: 25px;
+color: white;
+text-align: center;
+  margin-left: -40px;
+
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+
+#home{
+  font-size: 56px;
+  margin-left: 10px;
+  margin-top: 75px
+}
+
+#Qualifications,#Experience,#Personal,#References{
+  margin-top: 100px;
+}
+img {
+  width:250px;
+  height:250px;
+  margin-left: 8px;
+  margin-top: 35px;
+
+}
+#row1,#row2,#row3{
+  background: white;
+  height: 400px;
+  margin top: 0px;
+}
+div{
+   float: left;
+}
+#BP{
+  background-color:#3B393A;
+  height: 20px;
+  width: 20px;
+  margin-top: 75px;
+  margin-left: 40px;
+}
+#BP2{
+  background-color:#3B393A;
+  height: 20px;
+  width: 20px;
+  margin-top: 35px;
+  margin-left: 40px;
+}
+
+
+
+h2{
+  color: #3B393A;
+  margin-top: 68px;
+  margin-left: 10px;
+  font-family: Helvetica;
+  font-size: 30px;
+}
+
+#Line{
+  background-color:#3B393A;
+  height: 5px;
+  width: 660px;
+  margin-top: -20px;
+  margin-left: 40px;
+}
+#Line2{
+  background-color:#3B393A;
+  height: 5px;
+  width: 660px;
+  margin-top: -20px;
+  margin-left: 40px;
+}
+#title2{
+  color: #3B393A;
+  margin-top: 27px;
+  margin-left: 10px;
+  font-family: Helvetica;
+  font-size: 30px;
+}
+
+#para{
+  color:black;
+  height: 200px;
+  width: 600px;
+  margin-top: 10px;
+  margin-left: 70px;
+  margin-right: 10px
+}
+
+#BP3{
+  background-color:#3B393A;
+  height: 20px;
+  width: 20px;
+  margin-top: 10px;
+  margin-left: 70px;
+}
+
+#para3{
+
+  margin-top: 9px;
+  margin-left: 10px;
+
+}
+
+#Line3{
+  background-color:white;
+  height: 1px;
+  width: 660px;
+  margin-top: -15px;
+  margin-left: 40px;
+}
+
+h3{
+  margin-top: 0;
+  color: #3B393A;
+}
+#row2{
+  margin-top: 20;
+}
+
+
+#t{
+  background-color: white;
+  height: 200px
+}
+
+#tt{
+  background-color: white;
+  height: 200px
+}
+
+#ttt{
+  background-color: white;
+  height: 300px
+}
+
+#tttt{
+  background-color: white;
+  height: 100px;
+  margin-top: -100px
+}
+#homeImG{
+  height: 50px;
+  width: 50px;
+  margin-left: 53px;
+  margin-top: 10px;
+  margin-right: 0px;
+}
+
+#Address{
+  color: #3B393A;
+  font-size: 25px;
+  margin-top: -40px;
+  margin-left: 120px;
+  margin-right: 0px;
+}
+#line4{
+  background-color: #3B393A;
+  height: 3px;
+  width: 200px;
+  margin-left: 50px;
+  margin-top: -10px;
+  margin-right: 0px;
+}
+
+#Frieden{
+  margin-left: 120px
+}
+#Kettlehill{
+  margin-top: 20px;
+  margin-left: -70px;
+}
+
+#Cupar{
+  margin-top: 40px;
+  margin-left: -80px;
+}
+
+#Fife{
+  margin-top: 60px;
+  margin-left: -78px;
+}
+
+#Scotland{
+  margin-top: 80px;
+  margin-left: -80px;
+}
+
+#KY157TW{
+  margin-top: 100px;
+  margin-left: -81px;
+}
+
+#telephoneImG{
+  height: 50px;
+  width: 50px;
+  margin-left: 10px;
+  margin-top: 10px;
+  margin-right: 0px;
+}
+
+#Number{
+  color: #3B393A;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+#line5{
+  background-color: #3B393A;
+  height: 3px;
+  width: 250px;
+  margin-left: 0px;
+  margin-top: -5px;
+  margin-right: 0px;
+}
+
+#Mobile{
+  height: 50px;
+  width: 50px;
+  margin-left: 10px;
+  margin-top: 40px;
+  margin-right: 0px;
+}
+
+#MobileNumber{
+  color: #3B393A;
+  font-size: 25px;
+  margin-top: 50px;
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+#FB{
+  height: 50px;
+  width: 50px;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+
+#twitter{
+  height: 50px;
+  width: 50px;
+  margin-top: 45px;
+  margin-left: 20px;
+}
+
+#instagram{
+  height: 50px;
+  width: 50px;
+  margin-top: 50px;
+  margin-left: 20px;
+}
+
+#emailImG{
+  height: 50px;
+  width: 50px;
+  margin-left: 120px;
+  margin-top: 10px;
+  margin-right: 0px;
+}
+
+#email{
+  color: #3B393A;
+  font-size: 25px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-right: 0px;
+}
+
+#line6{
+  background-color: #3B393A;
+  height: 3px;
+  width: 430px;
+  margin-left: 110px;
+  margin-top: -5px;
+  margin-right: 0px;
+}
+
+#Reference1{
+  background-color: White;
+  height: 200px;
+}
+
+#Reference2{
+  background-color: White;
+  height: 200px;
+}
+
+#Reference3{
+  background-color: White;
+  height: 100px;
+}
+
+#Ref1AddressLine1{
+  margin-top: 0px;
+  margin-left: 120px;
+}
+
+#Ref1AddressLine2{
+  margin-top: -20px;
+  margin-left: 120px;
+}
+#Ref1AddressLine3{
+  margin-top: -20px;
+  margin-left:120px;
+}
+
+#Ref1AddressLine4{
+  margin-top: 5px;
+  margin-left: -55px;
+}
+
+#Ref1AddressLine5{
+  margin-top: 25px;
+  margin-left: -55px;
+}
+
+#Ref1Postcode{
+  margin-top: 47px;
+  margin-left: -80px;
+}
+
+#Ref2AddressLine1{
+  margin-top: 0px;
+  margin-left: 120px
+}
+
+#Ref2AddressLine2{
+  margin-top: -20px;
+  margin-left: 120px
+}
+
+#Ref2AddressLine3{
+  margin-top: 0px;
+  margin-left: -93px;
+}
+
+#Ref2AddressLine4{
+  margin-top: 20px;
+  margin-left: -92px;
+}
+
+#Ref2AddressLine5{
+  margin-top: 40px;
+  margin-left: -92px;
+}
+
+#Ref2Postcode{
+  margin-top: 60px;
+  margin-left: -92px;
+
+}
